@@ -4,7 +4,7 @@ Python Hiccup is a library for representing HTML using plain Python data structu
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/DavidVujic/python-hiccup/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/DavidVujic/python-hiccup/tree/main)
 
-[![CodeScene Code Health](https://codescene.io/projects/59968/status-badges/code-health)](https://codescene.io/projects/59968)
+[![CodeScene Average Code Health](https://codescene.io/projects/59968/status-badges/average-code-health)](https://codescene.io/projects/59968)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=DavidVujic_python-hiccup&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=DavidVujic_python-hiccup)
 
